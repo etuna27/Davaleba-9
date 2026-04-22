@@ -1,0 +1,19 @@
+const salary = 5001
+let bonus;
+if(salary == 1000)
+{
+    bonus = salary / 100 * 20;  
+}
+else if (salary > 1000 && salary <= 2000)
+{
+    bonus = salary / 100 * 10;
+}
+else if (salary > 2000 && salary <= 5000)
+{
+    bonus = salary / 100 * 5;
+}
+else
+{
+    bonus = 0;
+}
+console.log(bonus);
