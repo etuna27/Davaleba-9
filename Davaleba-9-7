@@ -1,6 +1,7 @@
 let array = ["Apple", "Banana", "Orange"];
 array.unshift("Grapes");
 array.push("Pineapples");
+
 for(i = 0; i < array.length; i++)
 {
     console.log(array[i]);

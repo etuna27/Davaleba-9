@@ -1,4 +1,5 @@
 let array = ["Apple", "Banana", "Orange"];
+
 for(i = 0; i < array.length; i++)
 {
     console.log(array[i]);

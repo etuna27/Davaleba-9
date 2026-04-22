@@ -16,4 +16,5 @@ else
 {
     bonus = 0;
 }
+
 console.log(bonus);
