@@ -3,4 +3,5 @@ const personn = {
     lastName: "Natroshvili",
     age: 28
 }
+
 console.log(personn.firstName + " " + personn.lastName)
