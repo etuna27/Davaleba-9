@@ -1,0 +1,6 @@
+let namravli = 1;
+for (let i=3; i<=8; i++)
+{
+    namravli = i * namravli;
+}
+console.log(namravli);
